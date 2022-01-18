@@ -1,0 +1,16 @@
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.exe
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.deps.json
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.runtimeconfig.json
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.runtimeconfig.dev.json
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.dll
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\ref\Variables-Demo.dll
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\bin\Debug\net5.0\Variables-Demo.pdb
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.csproj.AssemblyReference.cache
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.AssemblyInfo.cs
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.dll
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\ref\Variables-Demo.dll
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.pdb
+C:\Users\johnd\source\repos\Variables-Demo\Variables-Demo\obj\Debug\net5.0\Variables-Demo.genruntimeconfig.cache
